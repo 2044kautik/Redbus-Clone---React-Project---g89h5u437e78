@@ -1,7 +1,7 @@
 # boilerplate-react-functional-public
 
 # react-project-RedBus-Clone
-Redbus clone web Application link:- https://lucent-pika-b278ec.netlify.app/
+Redbus clone web Application link:- https://coruscating-salmiakki-f29c4b.netlify.app/
 
 Summary:
 
@@ -27,13 +27,6 @@ Learned How to integrate that Data and Perform Filter Operation,s Based upon use
 our Redbus clone project aims to provide a convenient, reliable, and hassle-free bus booking experience for users. With its intuitive design, robust features, and secure infrastructure.
 
 
-
-![Screenshot (55)](https://user-images.githubusercontent.com/111452796/228758813-73804861-af69-417c-9881-4adb211a6c24.png)
-![Screenshot (56)](https://user-images.githubusercontent.com/111452796/228758834-1e7b9c0d-b112-4c6e-b8ce-9044396cad8a.png)
-![Screenshot (57)](https://user-images.githubusercontent.com/111452796/228758843-c24cbf4d-3d18-4902-9e6a-dcf0d8d37e6e.png)
-![Screenshot (58)](https://user-images.githubusercontent.com/111452796/228758849-f27755ab-74c2-4020-b254-f5f280341777.png)
-![Screenshot (59)](https://user-images.githubusercontent.com/111452796/228758853-d99ce5bf-2d2b-4ff7-bc1c-6cb82d806838.png)
-![Screenshot (60)](https://user-images.githubusercontent.com/111452796/228758861-7edb4120-d78b-4cf4-98c6-4deab08811e0.png)
 
 
 
